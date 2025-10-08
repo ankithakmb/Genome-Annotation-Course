@@ -1,6 +1,5 @@
 # Genome Annotation Course
-
-Welcome to the **Genome Annotation Course** repository!  
+ 
 This repository contains resources, code, and materials for the genome annotation module.
 
 ## Overview
