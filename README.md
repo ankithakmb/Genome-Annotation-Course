@@ -8,7 +8,7 @@ This repository contains all files, scripts, and documentation associated with t
 
 ---
 
-## Sample used
+## Sample used 🌱
 
 The **Ice-1 Arabidopsis thaliana accession** was used as the sample for analysis.
 
@@ -19,7 +19,7 @@ The **Ice-1 Arabidopsis thaliana accession** was used as the sample for analysis
 
 ---
 
-## Bioinformatics Workflow
+## Bioinformatics Workflow 👩🏽‍💻
 
 The following pipeline was used for genome and transcriptome analysis:
 
@@ -49,7 +49,7 @@ The following pipeline was used for genome and transcriptome analysis:
 
 ---
 
-## Tool Versions
+## Tool Versions 🛠️
 
 | Tool      | Version   |
 |-----------|-----------|
