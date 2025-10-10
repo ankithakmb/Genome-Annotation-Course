@@ -1,16 +1,16 @@
-# Genome Annotation Course
+# Genome and Transcriptome Assembly Course 🧬🌱
  
 This repository contains resources, code, and materials for the genome annotation module.
 
 ## Overview
 
-This repository contains all files, scripts, and documentation associated with the Genome Annotation Course. The primary objective of this course is to perform genome and transcriptome analysis, from raw sequencing reads to assembly evaluation and comparative genomics.
+This repository contains all files, scripts, and documentation associated with the Genome and Transcriptome Assembly Course. The primary objective of this course is to perform genome and transcriptome analysis, from raw sequencing reads to assembly evaluation and comparative genomics.
 
 ---
 
 ## Sample Description
 
-For this module, the **Ice-1 Arabidopsis thaliana accession** was used as the sample for analysis.
+The **Ice-1 Arabidopsis thaliana accession** was used as the sample for analysis.
 
 **References:**
 
@@ -40,9 +40,9 @@ The following pipeline was used for genome and transcriptome analysis:
     - Trinity
 
 5. **Assembly Quality Assessment**
-    - BUSCO (genome & transcriptome)
-    - QUAST (genome)
-    - Merqury (genome)
+    - BUSCO for completeness (genome & transcriptome)
+    - QUAST for contiguity (genome)
+    - Merqury for correctness (genome)
 
 6. **Comparative Genomics**
     - Nucmer & MUMmer (genome comparisons against reference and between assembly types)
@@ -71,8 +71,8 @@ The following pipeline was used for genome and transcriptome analysis:
 
 ```
 Genome-Annotation-Course/
-├── scripts/            # Annotation scripts and pipelines
-├── results/            # Example output files
+├── scripts/            # Assembly scripts and pipelines
+├── results/            # Output files used for final analysis
 └── README.md           # This file
 ```
 
@@ -86,7 +86,7 @@ This repository is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or feedback, please open an issue or contact the maintainer.
+For any questions or feedback, please open an issue or contact me
 
 ---
 
