@@ -8,7 +8,7 @@ This repository contains all files, scripts, and documentation associated with t
 
 ---
 
-## Sample Description
+## Sample used
 
 The **Ice-1 Arabidopsis thaliana accession** was used as the sample for analysis.
 
